@@ -44,3 +44,8 @@
 如果某个 连续 子数组中恰好有 k 个奇数数字，我们就认为这个子数组是「优美子数组」。
 请返回这个数组中「优美子数组」的数目。
 ```
+##### 中等.[@20200422](./src/main/java/_20200422/Solution.java).[README.md](./src/main/java/_20200422/README.md).[官方题解](src/main/java/_20200422/Official_Solution.md) [😄me](./src/main/java/_20200422/Solution_me.java)
+```$xslt
+二叉树的右视图
+给定一棵二叉树，想象自己站在它的右侧，按照从顶部到底部的顺序，返回从右侧所能看到的节点值。
+```
