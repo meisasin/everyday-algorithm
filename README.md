@@ -59,3 +59,8 @@
 数组中的逆序对
 在数组中的两个数字，如果前面一个数字大于后面的数字，则这两个数字组成一个逆序对。输入一个数组，求出这个数组中的逆序对的总数。
 ```
+##### 困难.[@20200426](./src/main/java/_20200426/Solution.java).[README.md](./src/main/java/_20200426/README.md).[官方题解](src/main/java/_20200426/Official_Solution.md) [😄me](./src/main/java/_20200426/Solution_me.java)
+```$xslt
+合并K个排序链表
+合并 k 个排序链表，返回合并后的排序链表。请分析和描述算法的复杂度。
+```
