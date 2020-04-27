@@ -2,7 +2,7 @@ package _20200421;
 
 /**
  * 采用 Sweetiee 大佬写的
- *  {@link <a href="https://leetcode-cn.com/u/sweetiee/">https://leetcode-cn.com/u/sweetiee/</a>
+ *  {@link <a href="https://leetcode-cn.com/u/sweetiee/">https://leetcode-cn.com/u/sweetiee/</a>}
  */
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
