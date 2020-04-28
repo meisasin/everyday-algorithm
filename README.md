@@ -73,3 +73,8 @@
 你可以假设数组中不存在重复的元素。
 你的算法时间复杂度必须是 O(log n) 级别。
 ```
+##### 中等.[@20200428](./src/main/java/_20200428/Solution.java).[README.md](./src/main/java/_20200428/README.md).[官方题解](src/main/java/_20200428/Official_Solution.md) [😄me](./src/main/java/_20200428/Solution_me.java)
+```$xslt
+数组中数字出现的次数
+一个整型数组 nums 里除两个数字之外，其他数字都出现了两次。请写程序找出这两个只出现一次的数字。要求时间复杂度是O(n)，空间复杂度是O(1)。
+```
