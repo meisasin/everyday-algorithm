@@ -78,3 +78,10 @@
 数组中数字出现的次数
 一个整型数组 nums 里除两个数字之外，其他数字都出现了两次。请写程序找出这两个只出现一次的数字。要求时间复杂度是O(n)，空间复杂度是O(1)。
 ```
+##### 困难.[@20200429](./src/main/java/_20200429/Solution.java).[README.md](./src/main/java/_20200429/README.md).[官方题解](src/main/java/_20200429/Official_Solution.md) [😄me](./src/main/java/_20200429/Solution_me.java)
+```$xslt
+山脉数组中查找目标值
+（这是一个 交互式问题 ）
+给你一个 山脉数组 `mountainArr`，请你返回能够使得 `mountainArr.get(index)` 等于 `target` 最小 的下标 index 值。
+如果不存在这样的下标 `index`，就请返回 `-1`。
+```

@@ -2,7 +2,6 @@ import java.util.Arrays;
 
 /**
  * 归并排序
- * @author maxiaofeng
  * @date 2020/4/24 Í 10:47 下午
  */
 public class MergeSort {
