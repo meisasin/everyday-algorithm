@@ -12,7 +12,6 @@ package _20200429;
 /**
  * 采用 Sweetiee 大佬写的
  * {@link <a href="https://leetcode-cn.com/u/sweetiee/">https://leetcode-cn.com/u/sweetiee/</a>}
- * TODO 有空补看一下
  */
 class Solution {
 

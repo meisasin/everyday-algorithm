@@ -85,3 +85,10 @@
 给你一个 山脉数组 `mountainArr`，请你返回能够使得 `mountainArr.get(index)` 等于 `target` 最小 的下标 index 值。
 如果不存在这样的下标 `index`，就请返回 `-1`。
 ```
+##### 简单.[@20200430](./src/main/java/_20200430/Solution.java).[README.md](./src/main/java/_20200430/README.md).[官方题解](src/main/java/_20200430/Official_Solution.md) [😄me](./src/main/java/_20200430/Solution_me.java)
+```$xslt
+快乐数
+编写一个算法来判断一个数 n 是不是快乐数。
+「快乐数」定义为：对于一个正整数，每一次将该数替换为它每个位置上的数字的平方和，然后重复这个过程直到这个数变为 1，也可能是 无限循环 但始终变不到 1。如果 可以变为  1，那么这个数就是快乐数。
+如果 n 是快乐数就返回 True ；不是，则返回 False 。
+```
